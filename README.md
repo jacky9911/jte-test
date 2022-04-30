@@ -1,2 +1,0 @@
-# jte-mobile-ci
-
